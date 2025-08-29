@@ -1,7 +1,7 @@
 <h3 align="center"> Olá! :+1: </h3>
 
 - 👦 Eu sou o Leo!
-- :partying_face: Atualmente, sou granduando em Sistemas de Informação pelo IFMG, e estagiário na área de Desenvolvimento Web.
+- :partying_face: Sou técnico em Informática, pelo Senai, e graduado em Sistemas de Informação, pelo IFMG, com experiência na área de Desenvolvimento Web e manutenção de Hardware e Redes. 
 
 
 ## <h3 align="center"> Tecnologias e Ferramentas </h3>
